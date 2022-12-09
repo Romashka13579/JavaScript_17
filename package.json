@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romashka13579/JavaScript_17.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romashka13579/JavaScript_17/issues"
+  },
+  "homepage": "https://github.com/Romashka13579/JavaScript_17#readme",
   "dependencies": {
     "puppeteer": "^19.4.0"
   }
